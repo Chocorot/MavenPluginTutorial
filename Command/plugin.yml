@@ -1,0 +1,6 @@
+main: Main
+name: TutorialPlugin
+version: 1.0.0
+commands:
+  ping:
+    description: Ping!
